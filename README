@@ -1,1 +1,6 @@
-Sinatra app for Todo webapp
+# Todo List Application
+You can create as many todo lists as you want.
+Create a todo item inside the todo list
+Checking a todo item will make it transparent and move below the unchecked todo items on the list.
+Delete button and check all buttons do what you would expect.
+When all todo items in a list are checked, the list itself will be treated as complete.
